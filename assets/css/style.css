@@ -12,13 +12,18 @@ html {
 
 *{
   font-size: 18px;
-  /* border: 1px solid red; */
 }
 
 .wave-2 {
   transform: rotate(180deg);
   margin-top: -5px;
 }
+
+.brand-name {
+  font-family: 'Bebas Neue', cursive;
+
+}
+
 h1 {
   margin: 10px 10px 10px 0px;
   color: rgb(33, 33, 33);
@@ -53,6 +58,8 @@ h3
   font-weight: 700;
   font-size: 20px;
   color: rgb(33, 33, 33);
+  font-family: 'Bebas Neue', cursive;
+
 }
 
 .cta {
